@@ -1,1 +1,1 @@
-This is file2.txt of master branch
+This is file2.txt of master branch but is included in new-branch as well
